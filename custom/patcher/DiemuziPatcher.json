@@ -2,8 +2,20 @@
   "PatcherName": "Diemuzi Patcher",
   "ApplicationName": "Everquest",
   "Parameters": "patchme",
-  "ManifestURL": "https://github.com/diemuzi/everquest/blob/main/custom/patcher/diemuzi_manifest.json",
+  "ManifestURL": "https://raw.githubusercontent.com/diemuzi/everquest/main/custom/patcher/diemuzi_manifest.json",
   "CheckFile": "eqgame.exe",
-  "LogoURL": "https://github.com/diemuzi/everquest/blob/main/custom/patcher/diemuzi-logo.png",
+  "ColorPrimary": {
+    "Web": "#4682B4",
+    "Alpha": 255
+  },
+  "ColorAlt1": {
+    "Web": "#DAA520",
+    "Alpha": 255
+  },
+  "ColorAlt2": {
+    "Web": "#708090",
+    "Alpha": 255
+  },
+  "LogoURL": null,
   "SafePatcherName": "Diemuzi Patcher"
 }

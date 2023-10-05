@@ -5,48 +5,48 @@
             "MD5Sum": "8c6938cd61d8aabaa1bdf9149ad3ccb4",
             "LocalPath": "\\Resources",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/Resources/BaseData.txt",
-            "FileSize": 34
+            "DonwloadURL": "https://raw.githubusercontent.com/diemuzi/everquest/main/custom/client/Resources/BaseData.txt",
+            "FileSize": 60818
         },
         {
             "Name": "SkillCaps.txt",
             "MD5Sum": "dbfc5ed8c1cdc8ce4f158a4ea7fc0453",
             "LocalPath": "\\Resources",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/Resources/SkillCaps.txt",
-            "FileSize": 6298597
+            "DonwloadURL": "https://raw.githubusercontent.com/diemuzi/everquest/main/custom/client/Resources/SkillCaps.txt",
+            "FileSize": 881083
         },
         {
             "Name": "bazaar_chr.txt",
             "MD5Sum": "1a426fa9a0d765cf6d96a4f3656de467",
             "LocalPath": "",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/bazaar_chr.txt",
-            "FileSize": 184
+            "DonwloadURL": "https://raw.githubusercontent.com/diemuzi/everquest/main/custom/client/bazaar_chr.txt",
+            "FileSize": 23
         },
         {
             "Name": "dbstr_us.txt",
             "MD5Sum": "2616129be172f0d34cbba0c2684d5a23",
             "LocalPath": "",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/dbstr_us.txt",
-            "FileSize": 432390
+            "DonwloadURL": "https://raw.githubusercontent.com/diemuzi/everquest/main/custom/client/dbstr_us.txt",
+            "FileSize": 6234430
         },
         {
             "Name": "guildlobby_chr.txt",
             "MD5Sum": "7e956c03e97f6e6e0c493ac6911a88ef",
             "LocalPath": "",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/guildlobby_chr.txt",
-            "FileSize": 57
+            "DonwloadURL": "https://raw.githubusercontent.com/diemuzi/everquest/main/custom/client/guildlobby_chr.txt",
+            "FileSize": 53
         },
         {
             "Name": "spells_us.txt",
             "MD5Sum": "e0278539b8a6b0aece4e50479ceca521",
             "LocalPath": "",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/spells_us.txt",
-            "FileSize": 166
+            "DonwloadURL": "https://raw.githubusercontent.com/diemuzi/everquest/main/custom/client/spells_us.txt",
+            "FileSize": 28101820
         }
     ]
 }
