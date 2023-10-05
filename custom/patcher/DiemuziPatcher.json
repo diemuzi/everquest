@@ -2,8 +2,8 @@
   "PatcherName": "Diemuzi Patcher",
   "ApplicationName": "Everquest",
   "Parameters": "patchme",
-  "ManifestURL": "https://github.com/diemuzi/everquest/blob/main/patcher/diemuzi_manifest.json",
+  "ManifestURL": "https://github.com/diemuzi/everquest/blob/main/custom/patcher/diemuzi_manifest.json",
   "CheckFile": "eqgame.exe",
-  "LogoURL": "https://github.com/diemuzi/everquest/blob/main/patcher/diemuzi-logo.png",
+  "LogoURL": "https://github.com/diemuzi/everquest/blob/main/custom/patcher/diemuzi-logo.png",
   "SafePatcherName": "Diemuzi Patcher"
 }

@@ -5,7 +5,7 @@
             "MD5Sum": "8c6938cd61d8aabaa1bdf9149ad3ccb4",
             "LocalPath": "\\Resources",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/client/Resources/BaseData.txt",
+            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/Resources/BaseData.txt",
             "FileSize": 34
         },
         {
@@ -13,7 +13,7 @@
             "MD5Sum": "dbfc5ed8c1cdc8ce4f158a4ea7fc0453",
             "LocalPath": "\\Resources",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/client/Resources/SkillCaps.txt",
+            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/Resources/SkillCaps.txt",
             "FileSize": 6298597
         },
         {
@@ -21,7 +21,7 @@
             "MD5Sum": "1a426fa9a0d765cf6d96a4f3656de467",
             "LocalPath": "",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/client/bazaar_chr.txt",
+            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/bazaar_chr.txt",
             "FileSize": 184
         },
         {
@@ -29,7 +29,7 @@
             "MD5Sum": "2616129be172f0d34cbba0c2684d5a23",
             "LocalPath": "",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/client/dbstr_us.txt",
+            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/dbstr_us.txt",
             "FileSize": 432390
         },
         {
@@ -37,7 +37,7 @@
             "MD5Sum": "7e956c03e97f6e6e0c493ac6911a88ef",
             "LocalPath": "",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/client/guildlobby_chr.txt",
+            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/guildlobby_chr.txt",
             "FileSize": 57
         },
         {
@@ -45,7 +45,7 @@
             "MD5Sum": "e0278539b8a6b0aece4e50479ceca521",
             "LocalPath": "",
             "BackupPath": null,
-            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/client/spells_us.txt",
+            "DonwloadURL": "https://github.com/diemuzi/everquest/blob/main/custom/client/spells_us.txt",
             "FileSize": 166
         }
     ]
