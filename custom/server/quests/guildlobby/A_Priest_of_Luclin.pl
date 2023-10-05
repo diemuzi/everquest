@@ -1,4 +1,4 @@
-# items: 76013, 76014, 76015, 76016, 76017, 76018, 76019, 76048, 76065, 76274, 76275
+# items: 76013, 76014, 76015, 76016, 76017, 76018, 76019, 76048, 76065, 76274, 76275, 94076, 94091
 sub EVENT_SAY {
     if ($text =~ /hail/i) {
         quest::emote("continues to chant towards the altar as you approach. 'If you are in need of our aid speak to the disciple and bring me one of the soulstones that he sells. I must continue to delve into the twilight of our world in search of lost souls.'");
@@ -121,12 +121,22 @@ sub EVENT_ITEM {
     }
     elsif (plugin::check_handin(\%itemcount, 94076 => 1)) #Coalescent Soulstone
     {
-        if ($ulevel < 100) {
+        if ($ulevel < 98) {
             EVENT_SUMMON();
         }
         else {
             quest::say($failure);
             quest::summonitem(94076); # Item: Coalescent Soulstone
+        }
+    }
+    elsif (plugin::check_handin(\%itemcount, 94091 => 1)) #Torrential Soulstone
+    {
+        if ($ulevel < 100) {
+            EVENT_SUMMON();
+        }
+        else {
+            quest::say($failure);
+            quest::summonitem(94091); # Item: Torrential Soulstone
         }
     }
     plugin::return_items(\%itemcount);

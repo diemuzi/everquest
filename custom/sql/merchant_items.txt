@@ -1,0 +1,53 @@
+#
+# Treasure Hunter`s Satchel
+#
+
+UPDATE everquest.items SET lore = 0 WHERE id = 17702;
+REPLACE INTO everquest.merchantlist (merchantid, slot, item) VALUES (344000, 16, 17702);
+
+#
+# Misty Thicket Picnic
+#
+
+UPDATE everquest.items SET stacksize = 100, price = 3000 WHERE id = 9662;
+REPLACE INTO everquest.merchantlist (merchantid, slot, item) VALUES (344000, 17, 9662);
+
+#
+# Meat & Cheese Energizing Stew
+#
+
+UPDATE everquest.items SET stacksize = 100, price = 3000 WHERE id = 94078;
+REPLACE INTO everquest.merchantlist (merchantid, slot, item) VALUES (344000, 18, 94078);
+
+#
+# Candy Jewels
+#
+
+UPDATE everquest.items SET stacksize = 100, price = 3000 WHERE id = 94083;
+REPLACE INTO everquest.merchantlist (merchantid, slot, item) VALUES (344000, 19, 94083);
+
+#
+# Lost World Fruit Juice
+#
+
+UPDATE everquest.items SET stacksize = 100, price = 3000 WHERE id = 56750;
+REPLACE INTO everquest.merchantlist (merchantid, slot, item) VALUES (344000, 20, 56750);
+
+#
+# Enhanced Sailor's Grog
+#
+
+UPDATE everquest.items SET stacksize = 100, price = 3000 WHERE id = 96978;
+REPLACE INTO everquest.merchantlist (merchantid, slot, item) VALUES (344000, 21, 96978);
+
+#
+# Coalescent Soulstone
+#
+
+REPLACE INTO everquest.merchantlist (merchantid, slot, item) VALUES (344000, 22, 94076);
+
+#
+# Torrential Soulstone
+#
+
+REPLACE INTO everquest.merchantlist (merchantid, slot, item) VALUES (344000, 23, 94091);
