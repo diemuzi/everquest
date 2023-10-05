@@ -1,0 +1,178 @@
+#
+# zone/gm_commands/find/zone.cpp
+#
+
+# Remove
+c->Message(Chat::White, query.c_str());
+
+"{}{} {} ({}) (ID {}){}",
+"{} {} ({}) (ID {}){}",
+
+# Remove
+fmt::format(
+	"{} |",
+	Saylink::Silent(
+		fmt::format(
+			"#gmzone {} {}",
+			short_name,
+			version
+		),
+		"GM Zone"
+	)
+),
+
+#
+# zone/attack.cpp
+#
+
+exploss = static_cast<int>
+exploss = static_cast<uint64>
+
+int32 total_exp
+uint64 total_exp
+
+uint32 level_min_exp
+uint64 level_min_exp
+
+int32 level_exp
+uint64 level_exp
+
+int32 newexp
+uint64 newexp
+
+#
+# zone/client.cpp
+#
+
+uint32 tmpxp1
+uint64 tmpxp1
+
+uint32 tmpxp2
+uint64 tmpxp2
+
+#
+# zone/client.h
+#
+
+inline uint32 GetEXP()
+inline uint64 GetEXP()
+
+void SetPendingRezzData(int XP
+void SetPendingRezzData(int64 XP
+
+uint32 GetEXPForLevel
+uint64 GetEXPForLevel
+
+int PendingRezzXP;
+int64 PendingRezzXP;
+
+#
+# zone/client_packet.cpp
+#
+
+if (GetGM() || (!nt->IsInvisible(this) && (DistanceSquared(m_Position, nt->GetPosition()) <= TARGETING_RANGE*TARGETING_RANGE))) {
+//if (GetGM() || (!nt->IsInvisible(this) && (DistanceSquared(m_Position, nt->GetPosition()) <= TARGETING_RANGE*TARGETING_RANGE))) {
+
+# comment out the ending } too
+
+#
+# zone/client_process.cpp
+#
+
+SetEXP(((int)
+SetEXP(((int64)
+
+#
+# zone/exp.cpp
+#
+
+uint32 expneeded
+uint64 expneeded
+
+uint32 tmpxp1
+uint64 tmpxp1
+
+uint32 tmpxp2
+uint64 tmpxp2
+
+uint32 Client::GetEXPForLevel
+uint64 Client::GetEXPForLevel
+
+#
+# zone/loc.cpp
+#
+
+# Remove everything after
+if (!zone->zonemap) {
+
+#
+# zone/lua_client.cpp
+#
+
+uint32 Lua_Client::GetEXP()
+uint64 Lua_Client::GetEXP()
+
+uint32 Lua_Client::GetEXPForLevel
+uint64 Lua_Client::GetEXPForLevel
+
+#
+# zone/lua_client.h
+#
+
+uint32 GetEXP();
+uint64 GetEXP();
+
+uint32 GetEXPForLevel(uint16 check_level);
+uint64 GetEXPForLevel(uint16 check_level);
+
+#
+# zone/lua_parser.cpp
+#
+
+uint32 LuaParser::GetEXPForLevel
+uint64 LuaParser::GetEXPForLevel
+
+#
+# zone/lua_parser.h
+#
+
+uint32 GetEXPForLevel
+uint64 GetEXPForLevel
+
+#
+# zone/perl_client.cpp
+#
+
+uint32_t Perl_Client_GetEXP
+uint64_t Perl_Client_GetEXP
+
+uint32 Perl_Client_GetEXPForLevel
+uint64 Perl_Client_GetEXPForLevel
+
+#
+# zone/perl_questitem.cpp
+#
+
+uint32 Perl_QuestItem_GetEXP
+uint64 Perl_QuestItem_GetEXP
+
+#
+# zone/worldserver.cpp
+#
+
+bool WorldServer::RezzPlayer(EQApplicationPacket* rpack, uint32 rezzexp
+bool WorldServer::RezzPlayer(EQApplicationPacket* rpack, uint64 rezzexp
+
+#
+# zone/worldserver.h
+#
+
+bool RezzPlayer(EQApplicationPacket* rpack, uint32 rezzexp
+bool RezzPlayer(EQApplicationPacket* rpack, uint64 rezzexp
+
+#
+# zone/zonedb.cpp
+#
+
+pp->exp = Strings::ToInt
+pp->exp = atol
