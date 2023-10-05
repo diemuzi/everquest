@@ -1,0 +1,17 @@
+#
+# Remove variance (in seconds)
+#
+
+UPDATE everquest.spawn2 SET variance = 0;
+
+#
+# Change respawn timers for anything that is 1 hour or more (in seconds)
+#
+
+UPDATE everquest.spawn2 SET respawntime = 3600 WHERE respawntime >= 3600 AND respawntime < 999999;
+
+#
+# Change chance on NPC appearing
+#
+
+UPDATE everquest.spawnentry SET chance = 50;

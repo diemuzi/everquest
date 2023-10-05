@@ -1,0 +1,20 @@
+#
+# Allow #zone to be used by anyone
+#
+
+UPDATE everquest.command_settings SET access = 0 WHERE command = "zone";
+
+#
+# Allow #find zone to be used by anyone
+#
+
+UPDATE everquest.command_settings SET access = 0 WHERE command = "find";
+UPDATE everquest.command_subsettings SET access_level = 0 WHERE parent_command = 'find' AND sub_command = 'zone';
+
+#
+# Make GM Account
+# Account / Character must be created first
+#
+
+UPDATE everquest.account SET status = 255, gmspeed = 1, invulnerable = 1 WHERE id = 1;
+UPDATE everquest.character_data SET title = "GM", gm = 1 WHERE id = 1;

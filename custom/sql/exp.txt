@@ -1,0 +1,11 @@
+#
+# Experience Modifier
+#
+
+UPDATE everquest.zone SET zone_exp_multiplier = '1.0' WHERE zone_exp_multiplier = '0.00';
+
+#
+# Fix experience table size
+#
+
+ALTER TABLE everquest.character_data MODIFY COLUMN exp bigint(11) unsigned default 0 NOT NULL;

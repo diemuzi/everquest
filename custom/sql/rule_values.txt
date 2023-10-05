@@ -1,0 +1,43 @@
+#
+# Change Max Level
+#
+
+UPDATE everquest.rule_values SET rule_value = 100 WHERE rule_name = "Character:MaxLevel";
+UPDATE everquest.rule_values SET rule_value = -1 WHERE rule_name = "Character:MaxExpLevel";
+
+#
+# Keep Level over Max
+#
+
+UPDATE everquest.rule_values SET rule_value = 1 WHERE rule_name = "Character:KeepLevelOverMax";
+
+#
+# Enable all expansions
+#
+
+UPDATE everquest.rule_values SET rule_value = -1 WHERE rule_name = "Expansion:CurrentExpansion";
+
+#
+# Enable all expansion zones
+#
+
+UPDATE everquest.zone SET bypass_expansion_check = 1 WHERE bypass_expansion_check = 0;
+
+#
+# Enable access to all zones but flag is required
+#
+
+UPDATE everquest.zone SET flag_needed = 1 WHERE min_status = 80;
+UPDATE everquest.zone SET min_status = 0 WHERE min_status = 80 and flag_needed = 1;
+
+#
+# Enable Drakkin
+#
+
+UPDATE everquest.rule_values SET rule_value = 524287 WHERE rule_name = "World:CharacterSelectExpansionSettings";
+
+#
+# Delete Character
+#
+
+UPDATE everquest.rule_values SET rule_value = 0 WHERE rule_name = "Character:SoftDeletes";

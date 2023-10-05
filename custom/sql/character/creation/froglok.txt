@@ -1,0 +1,307 @@
+#
+# Play as any race with any class
+#
+
+# Warrior
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 1, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Cleric
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 2, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Paladin
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 3, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Ranger
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 4, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Shadow Knight
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 5, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Druid
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 6, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Monk
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 7, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Bard
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 8, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Rogue
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 9, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Shaman
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 10, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Necromancer
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 11, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Wizard
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 12, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Magician
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 13, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Enchanter
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 14, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Beastlord
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 15, deity = 216, start_zone = 189, expansions_req = 0;
+
+# Berserker
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 396, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 201, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 202, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 203, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 204, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 205, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 206, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 207, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 208, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 209, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 210, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 211, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 212, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 213, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 214, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 215, start_zone = 189, expansions_req = 0;
+INSERT INTO everquest.char_create_combinations SET allocation_id = 330, race = 330, class = 16, deity = 216, start_zone = 189, expansions_req = 0;
