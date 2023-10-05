@@ -1,0 +1,4 @@
+3
+hnm,hnm
+avi,southkarana_chr
+hag,frozenshadow_chr
