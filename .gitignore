@@ -43,3 +43,7 @@ inc/
 /pm_to_blib
 /*.zip
 
+# Custom
+NOTES
+install.txt
+unused_names.txt
